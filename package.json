@@ -1,0 +1,38 @@
+{
+  "name": "absolut",
+  "version": "1.0.0",
+  "description": "absolut site",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "downPacks": "npm i babel browser-sync del gulp gulp-autoprefixer gulp-babel gulp-clean-css gulp-file-include gulp-fonter gulp-group-css-media-queries gulp-notify gulp-plumber gulp-pug gulp-rename gulp-sourcemaps gulp-ttf2woff gulp-ttf2woff2 gulp-uglify-es node-sass gulp-sass"
+  },
+  "author": "kais",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "browser-sync": "^2.29.3",
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-fonter": "^0.3.0",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-ttf2woff": "^1.1.1",
+    "gulp-ttf2woff2": "^4.0.1",
+    "gulp-uglify-es": "^3.0.0",
+    "node-sass": "^9.0.0",
+    "sass": "^1.64.1"
+  }
+}
